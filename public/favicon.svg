@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="10" fill="#080807"/>
+  <rect x="4" y="4" width="56" height="56" rx="7" stroke="#C99A5B" stroke-opacity="0.45" stroke-width="1.2"/>
+  <!-- Anamorphic cinema gate & T monogram -->
+  <path d="M16 20H48V24H34.2V46H29.8V24H16V20Z" fill="#F4EFE6"/>
+  <circle cx="45" cy="43" r="3" fill="#C99A5B"/>
+</svg>
